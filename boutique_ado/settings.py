@@ -32,9 +32,8 @@ INSTALLED_APPS = [
     'allauth.account',
     'django.contrib.sites',
     'home',
-
-    # Optional -- requires install using `django-allauth[socialaccount]`.
     'allauth.socialaccount',
+    'products',
 ]
 
 SOCIALACCOUNT_PROVIDERS = {
