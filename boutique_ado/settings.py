@@ -15,7 +15,7 @@ SECRET_KEY = 'django-insecure-cwqu!!eb5z+&zlcpw-#$m7fck6#5126wc-!w9!=&1@pvo+^htt
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    '8000-syricano-boutiqueadov1-7ui96xt2ndy.ws-eu114.gitpod.io',
+    '8000-syricano-boutiqueadov1-j77ye45hqn6.ws-eu115.gitpod.io',
 ]
 
 
